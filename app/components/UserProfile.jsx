@@ -1,3 +1,5 @@
+'use client'
+
 import { useContext } from "react";
 import { FaCog, FaMoneyCheckAlt, FaUser } from "react-icons/fa";
 import { Link } from "react-router-dom";
