@@ -18,10 +18,10 @@
     "react-dom": "^18",
     "react-hook-form": "^7.41.3",
     "react-icons": "^4.7.1",
-    "react-loading-icons": "^1.1.0",
+    "react-loading-icons": "^1.0.3",
     "react-router-dom": "^6.6.1",
     "react-stripe-checkout": "^2.6.3",
-    "wretch": "^2.3.2"
+    "wretch": "^2.8.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
